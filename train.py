@@ -9,7 +9,7 @@ from nltk_utils import bag_of_words, tokenize, stem
 from model import NeuralNet
 
 """
-This model is responsible for the training of the The neuralNet.
+This script is responsible for the training of the The neuralNet.
 For better understanding it's recommended to understand the data-set(JSON
 file) first.  
 """
