@@ -10,8 +10,7 @@ from model import NeuralNet
 
 """
 This script is responsible for the training of the The neuralNet.
-For better understanding it's recommended to understand the data-set(JSON
-file) first.  
+For better understanding it's recommended to see intents.json file  
 """
 
 # open and read the json file with the data set
