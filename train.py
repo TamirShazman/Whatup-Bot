@@ -14,7 +14,7 @@ For better understanding it's recommended to see intents.json file
 """
 
 # open and read the json file with the data set
-with open('intents.json', 'r') as f:
+with open('data_train.json', 'r') as f:
     intents = json.load(f)
 
 all_words = []  # bags off words
